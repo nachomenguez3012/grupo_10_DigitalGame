@@ -6,6 +6,10 @@ La empresa tiene como nicho objetivo de clientes a la comunidad, mayor de 18 añ
 Las bebidas alcohólicas ofrecidas son Vinos, Gin, Whisky, entre otros. -->
 
 ## Páginas de Referencia:
+https://nextgames.com.ar/Buscar/playstation%205 ->  ideas de la web.
+https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/2659/posts/26768/image/Shella%20-%20Multipurpose%20Shopify%20theme.jpg -> estructura
+
+
 <!-- - https://www.dvino.com.ar  -> filtros y categorías
 - https://www.varietalvinoteca.com.ar -> animaciones de página principal
 - https://frappe.com.ar -> animaciones de página principal, estilo general de la página, datos requeridos para el registro del cliente y filtro de productos.
@@ -23,7 +27,7 @@ Vidiri, Tomas.
 
 
 ### Repositorio GitHub:
-https://github.com/VillalbaLeandro/grupo_10_DigitalGames.git
+https://github.com/VillalbaLeandro/grupo_10_DigitalGame.git
 
 ### Tablero Trello:
 
