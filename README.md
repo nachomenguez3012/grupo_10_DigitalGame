@@ -1,9 +1,10 @@
 # Grupo_10_DigitalGames
 
-<!-- **DigitalGame** es un sitio web dedicado a la comercialización de bebidas alcohólicas de alta gama, principalmente vinos.
+ **DigitalGame** es un sitio web dedicado a la venta y distribución de productos relacionados al mundo gaming (videojuegos, consolas y accesorios).
+
 La venta de los productos se efectúa desde la página, mediante la apertura de una cuenta como "Cliente" seguido de la compra virtual de los artículos seleccionados y agregados al carrito, los cuales serán entregados por delivery al domicilio de referencia brindado por el cliente.
-La empresa tiene como nicho objetivo de clientes a la comunidad, mayor de 18 años, que sienta una inmensa pasión por el gusto de descubrir nuevas y variadas etiquetas de calidad.
-Las bebidas alcohólicas ofrecidas son Vinos, Gin, Whisky, entre otros. -->
+
+La empresa tiene objetivo satisfacer las necesidades del cliente, ofreciendo  la mejor experiencia en el sitio, los mejores precios con ofertas y promociones. Pero sobre todo una experiencia fácil, dinámica y practica en el sitio web.
 
 ## Páginas de Referencia:
 https://nextgames.com.ar/Buscar/playstation%205 ->  ideas de la web.
