@@ -9,7 +9,7 @@ La empresa tiene objetivo satisfacer las necesidades del cliente, ofreciendo  la
 ## Páginas de Referencia:
 https://nextgames.com.ar/Buscar/playstation%205 ->  ideas de la web.
 https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/2659/posts/26768/image/Shella%20-%20Multipurpose%20Shopify%20theme.jpg -> estructura
-
+https://www.shutterstock.com/es/search/dg+logos -> logo
 
 <!-- - https://www.dvino.com.ar  -> filtros y categorías
 - https://www.varietalvinoteca.com.ar -> animaciones de página principal
@@ -25,7 +25,7 @@ https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/2659/posts
 Uguccioni, Luis.
 Vilalba, Leandro.
 Vidiri, Tomas.
-
+Albarracín, Marcela.
 
 ### Repositorio GitHub:
 https://github.com/VillalbaLeandro/grupo_10_DigitalGame.git
