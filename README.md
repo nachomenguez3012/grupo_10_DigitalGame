@@ -27,6 +27,7 @@ Uguccioni, Luis.
 Vilalba, Leandro.
 Vidiri, Tomas.
 Albarracín, Marcela.
+MEnguez Gonzalez, Ignacio.
 
 ### Repositorio GitHub:
 https://github.com/VillalbaLeandro/grupo_10_DigitalGame.git
